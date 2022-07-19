@@ -27,13 +27,3 @@ I am a Full Stack Developer graduated in Architecture, Urban Planing and Design.
 ### Tools
 ![Git](https://img.shields.io/badge/Git-green?style=plastic&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-green?style=plastic&logo=figma)
-
-
-
-### Projects
-|      Project :triangular_flag_on_post:   |     Description :pencil2:   | Repo :octocat:  | Link :link:  | 
-|-------------|-------------------|---|---|
-|    Portfolio    | Basic portfolio showcasing my projects. | <sup><kbd>***[Repo](https://github.com/RomeroFederico/Portfolio-Github-Pages)***</kbd></sup> | <sup><kbd>***[Link](https://romerofederico.github.io/Portfolio-Github-Pages/)***</kbd></sup> |
-|    Henry Dogs    | Web application which shows a catalog of dog breeds. | <sup><kbd>***[Repo](https://github.com/RomeroFederico/PI-DOGS)***</kbd></sup> | <sup><kbd>***[Link](https://henry-dogs.vercel.app/)***</kbd></sup> |
-|    TechMarket    | Group project, which is an e-commerce oriented to the sale of computer products. | <sup><kbd>***[Repo](https://github.com/gpitrella/PF-FrontEnd)***</kbd></sup> | <sup><kbd>***[Link](https://techmarketfront.vercel.app/)***</kbd></sup> |
-
