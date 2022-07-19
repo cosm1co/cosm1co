@@ -1,2 +1,11 @@
-<h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">Full Stack Developer graduated in Industrial Engineering. Experience working with JavaScript, NodeJS, React, Sequelize, SQL among other technologies in the sector. Develop an E-commerce that exceeded 500 successful sales in the first three months. I worked at Toyota Argentina for more than 7 years, which strengthened my analytical thinking, effective problem solving, teamwork, communication and continuous improvement.</h3>
+## Hi 👋, Federico here!
+
+I'm a Full-Stack developer with a Front-end orientation, with an emphasis on creating sites that grab the user's attention and, at the same time, are highly responsive and robust.
+
+- 🌱 I’m currently learning **TypeScript**
+
+- 👨‍💻 All of my projects are available at [https://romerofederico.github.io/Portfolio-Github-Pages/](https://romerofederico.github.io/Portfolio-Github-Pages/)
+
+- 📫 How to reach me **romerof14@gmail.com**
+
+- 🔰 Also on Linkedin **https://www.linkedin.com/in/federico-romero-fullstack**
