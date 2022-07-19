@@ -1,11 +1,11 @@
 ## Hi 👋, Federico here!
 
-I'm a Full-Stack developer with a Front-end orientation, with an emphasis on creating sites that grab the user's attention and, at the same time, are highly responsive and robust.
+I am a Full Stack Developer graduated in Architecture, Urban Planing and Design. Experience working with JavaScript, NodeJS, React, Sequelize, SQL among other technologies in the sector. I feel comfortable working for both Back-End and Front-End. Also consider myself a lover of aesthetics ande detail in technological devices. And as an architect i like to bring my efficiency to develop a project taking into account the user experience avobe it all.
+
+- 🔭 I’m currently learning new technologies
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://romerofederico.github.io/Portfolio-Github-Pages/](https://romerofederico.github.io/Portfolio-Github-Pages/)
+- 📫 How to reach me **federicofaraz@gmail.com**
 
-- 📫 How to reach me **romerof14@gmail.com**
-
-- 🔰 Also on Linkedin **https://www.linkedin.com/in/federico-romero-fullstack**
+- 🔰 Also on Linkedin **https://www.linkedin.com/in/federicofaraz-fullstack**
