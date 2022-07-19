@@ -27,7 +27,6 @@ I am a Full Stack Developer graduated in Architecture, Urban Planing and Design.
 ### Tools
 ![Git](https://img.shields.io/badge/Git-green?style=plastic&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-green?style=plastic&logo=figma)
-![Illustrator](https://img.shields.io/badge/Figma-green?style=plastic&logo=illustrator)
 
 
 
