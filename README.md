@@ -4,7 +4,7 @@ I am a Full Stack Developer graduated in Architecture, Urban Planing and Design.
 
 - 🔭 I’m constantly learning new technologies
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Mongo DB**
 
 - 📫 How to reach me **federicofaraz@gmail.com**
 
