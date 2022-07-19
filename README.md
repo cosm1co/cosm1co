@@ -1,3 +1,4 @@
+![developerss](https://user-images.githubusercontent.com/98782488/179839168-fd7e43b3-8fa8-4b3b-84c9-2dec8486589e.jpg)
 ## Hi 👋, Federico here!
 
 I am a Full Stack Developer graduated in Architecture, Urban Planing and Design. Experience working with JavaScript, NodeJS, React, Sequelize, SQL among other technologies in the sector. I feel comfortable working for both Back-End and Front-End. Also consider myself a lover of aesthetics ande detail in technological devices. And as an architect i like to bring my efficiency to develop a project taking into account the user experience avobe it all.
